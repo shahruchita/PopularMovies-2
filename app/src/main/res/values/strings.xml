@@ -1,23 +1,9 @@
-<!--
-  Copyright 2015.  Emin Yahyayev
 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
 
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name" translatable="false">PopMovies</string>
     <string name="__leak_canary_display_activity_label" translatable="false">PopMovies Leaks</string>
-    <string name="content_authority" translatable="false">com.ewintory.udacity.popularmovies.provider</string>
+    <string name="content_authority" translatable="false">com.ruchita.udacity.popularmovies.provider</string>
 
     <!-- Screen titles -->
     <string name="title_browse_movies">PopMovies</string>
@@ -64,6 +50,6 @@
     <string name="share_template">Check out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="url">%2$s</xliff:g></string>
     <string name="title_share_trailer">Share trailer</string>
     <string name="message_movie_favored">Saved to favorites.</string>
-    <string name="sync_account_type">popularmovies.ewintory.com</string>
+    <string name="sync_account_type">popularmovies.ruchita.com</string>
 
 </resources>

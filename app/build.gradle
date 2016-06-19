@@ -6,14 +6,13 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.ewintory.udacity.popularmovies"
+        applicationId "com.ruchita.udacity.popularmovies"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
 
-        def STRING = "String"
-        buildConfigField STRING, "MOVIE_DB_API_KEY", "\"${MOVIE_DB_API_KEY}\""
+
     }
     buildTypes {
         release {
